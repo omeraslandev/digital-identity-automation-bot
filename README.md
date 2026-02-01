@@ -12,7 +12,7 @@ This project pushes the boundaries of web automation using the power of **Seleni
 
 -----
 
-### 🛠️ Setup and Running Guide: Step-by-Step to Mars... I Mean, WhatsApp\!
+### 🛠️ Setup and Running Guide: Step-by-Step!
 
 Bringing our project to life isn't rocket science. Just follow the steps below and watch the magic unfold\!
 
