@@ -62,3 +62,5 @@ Everything's ready\! Now it's time to start the engines.
   * After logging in, return to the terminal screen where you ran the script and type `yes` to the question **"Did you login? (yes/no):"**, then press Enter.
 
 That's it\! Sit back and watch the script change your first profile picture. From now on, it will repeat this process for you every 24 hours. Your digital identity is now more vibrant than ever\! 😉
+
+**Disclaimer:** *This project is for educational and personal experimentation purposes only. It is not affiliated with, authorized, or endorsed by WhatsApp or Meta. Automated use of personal accounts violates WhatsApp's Terms of Service. Use at your own risk.*
